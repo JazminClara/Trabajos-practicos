@@ -9,9 +9,13 @@ El proyecto está dividido en los siguientes paquetes principales:
 
 Se implementan principios de **POO** como:
 - Herencia
-- Abstracción (`Vehiculo` como clase abstracta)
+- Abstracción
 - Polimorfismo
 - Implementación de la interfaz
+
+Implementaciones **funcionales**:
+- Framework Collection
+- Stream API
 
 Herramientas utilizadas:
 - **Java** (JDK 22)
